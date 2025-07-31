@@ -90,7 +90,7 @@ namespace rpf2fivem
                 var client = new HttpClient();
                 client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue("CSharpApp", "1.0"));
 
-                string url = $"https://api.github.com/repos/Avenze/rpf2fivem-repository/releases/latest";
+                string url = $"https://api.github.com/repos/Frostcloud-Development/rpf2fivem-repository/releases/latest";
                 HttpResponseMessage response = await client.GetAsync(url);
                 response.EnsureSuccessStatusCode();
 
