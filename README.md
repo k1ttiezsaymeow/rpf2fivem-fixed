@@ -1,11 +1,3 @@
-# rpf2fivem
-
-Follow me on Twitch if you'd like to see some development or ask questions, 
-https://twitch.tv/avenzey 
-
-Or perhaps join my communities Discord server,
-https://discord.com/zSDfT4T35J
-
 ## Info
 We've all been through this, you started working on your FiveM server and started adding vehicles, but, you got tired of switching back and forth between OpenIV and 100 notepads open. I made this tool for you.
 
